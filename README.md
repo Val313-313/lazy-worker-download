@@ -4,7 +4,12 @@ Chrome-Erweiterung für Stellensuchende in der Schweiz: erfasst Bewerbungen auto
 
 Dieses Repository enthält nur die Downloads. Mehr Infos: [philstranger.com](https://philstranger.com)
 
-> **Update von einer älteren Version?** Exportiere zuerst deine Bewerbungen im Popup, entferne dann die alte Version unter `chrome://extensions` und lade die neue.
+> **Update von einer älteren Version (deine Bewerbungen bleiben erhalten):**
+> 1. Neue ZIP herunterladen und entpacken
+> 2. Den **Inhalt** des neuen Ordners in deinen **bisherigen** Lazy-Worker-Ordner kopieren und "Ersetzen" wählen
+> 3. In `chrome://extensions` bei Lazy Worker auf den runden Pfeil (**Neu laden**) klicken
+>
+> Lädst du stattdessen einen neuen Ordner, ist die Liste leer. Sichere dann vorher deine Bewerbungen als CSV (Download-Button im Popup).
 
 ---
 
